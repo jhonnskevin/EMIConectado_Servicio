@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="EMIConectado_Servicio.Comunicacion" CodeBehind="Comunicacion.svc.cs" %>
